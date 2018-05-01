@@ -6,7 +6,7 @@
         xmlns:local="clr-namespace:U4TapperKeegan"
         mc:Ignorable="d"
         Title="MainWindow" Height="590" Width="970" MaxHeight="590" MinHeight="590" MaxWidth="970" MinWidth="970">
-    <Canvas>
+    <Canvas x:Name="myCanvas">
         
     </Canvas>
 </Window>
